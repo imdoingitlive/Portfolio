@@ -69,3 +69,17 @@ article{
 	border: 1px solid black;
 	margin: auto;
 }
+
+@media only screen and (max-width: 980px){
+
+}
+
+@media only screen and (max-width: 768px){
+
+}
+
+@media only screen and (max-width: 640px){
+	header{
+		position: static;
+	}
+}
